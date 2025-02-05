@@ -1,9 +1,4 @@
-## Hi there 👋 I'm Edward Ronin
-
-<!-- Animated greeting GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="300" alt="Hello!">
-</p>
+## Hi there 👋 I'm Eduard Donor
 
 I'm a passionate **Full Stack Software Developer** skilled in both front-end and back-end development. I love creating efficient, scalable, and dynamic web solutions using modern technologies.
 
@@ -33,7 +28,3 @@ I'm a passionate **Full Stack Software Developer** skilled in both front-end and
   </a>
 </p>
 
-<!-- Optional: Add an animated coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Coding Animation">
-</p>
