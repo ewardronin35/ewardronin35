@@ -61,8 +61,9 @@ I specialize in **front-end and back-end development**, leveraging modern techno
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/X86-64_architecture_diagram.svg" alt="x86 Assembly" width="40" height="40"/>
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="x86 Assembly" width="40" height="40"/>
+
+  </p>
 
 ---
 
