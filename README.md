@@ -7,27 +7,37 @@ I'm a **Full Stack Software Developer** passionate about building efficient, sca
 ## 🚀 Tech Stack & Tools
 
 ### 🌐 Frontend
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript (ES6+)**
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **React**
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) **HTML5**
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) **CSS3 / TailwindCSS**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
 
 ### 🏗 Backend
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) **Node.js**
-- ![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) **Laravel**
-- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) **PHP**
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) **Java**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
 
 ### 🗄️ Databases
-- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) **MySQL**
-- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) **PostgreSQL**
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) **MongoDB**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
 
 ### 🛠 Tools & DevOps
-- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) **Git / GitHub**
-- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) **Docker**
-- ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) **Linux**
-- ![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg) **Postman**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
 ---
 
@@ -47,9 +57,17 @@ I'm a **Full Stack Software Developer** passionate about building efficient, sca
 
 ---
 
-### 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 💻 [Portfolio](https://yourportfolio.com)
+## 📫 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
+</p>
 
 🚀 Let's build something awesome together!
