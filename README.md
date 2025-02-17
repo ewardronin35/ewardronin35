@@ -61,16 +61,11 @@ I specialize in **front-end and back-end development**, leveraging modern techno
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/X86_architecture.svg/120px-X86_architecture.svg.png" alt="x86 Assembly" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Intel_8086_%28Decapped%29.jpg" alt="x86 Assembly" width="40" height="40"/>
 </p>
 
 ---
 
-## 🔥 Animated Profile Information
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ewardronin35&bg_color=1f1f1f&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true" alt="Eduard's GitHub Contribution Graph">
-</p>
 
 ---
 
