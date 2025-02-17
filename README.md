@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Eduard Donor
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=500&lines=👋+Welcome+to+My+GitHub!;I+am+a+Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;Let's+Build+Awesome+Things!"/>
+</p>
+
+# Hi there! I'm <span style="color:#F75C7E;">Eduard Donor</span> 👨‍💻
 
 I'm a **Full Stack Software Developer** passionate about building efficient, scalable, and dynamic web applications. I specialize in both front-end and back-end development, leveraging modern technologies to create seamless user experiences.
 
@@ -58,24 +62,16 @@ I'm a **Full Stack Software Developer** passionate about building efficient, sca
 
 ---
 
-## 🎭 Fun Animated Badge
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;Let's+Build+Awesome+Things!;Welcome+to+my+GitHub!" alt="Typing SVG Animation"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/eduarddonor/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  <a href="https://www.facebook.com/Midoyoki" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Portfolio" width="40" height="40"/>
+  <a href="https://www.instagram.com/Midoyoki" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
