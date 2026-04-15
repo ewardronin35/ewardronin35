@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=⚡+Building+Scalable+Laravel+%26+React+Applications;🧪+Writing+Tests+Before+Bugs+Write+Themselves;🏆+Hackathon+Competitor+%7C+Problem+Solver+at+Heart;🚀+Clean+Code.+Solid+Architecture.+Ship+It." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Building+Scalable+Laravel+%26+React+Applications;%F0%9F%A7%AA+Writing+Tests+Before+Bugs+Write+Themselves;%F0%9F%8F%86+Hackathon+Competitor+%7C+Problem+Solver+at+Heart;%F0%9F%9A%80+Clean+Code.+Solid+Architecture.+Ship+It." alt="Typing SVG" />
 
 <br/>
 
@@ -146,9 +146,10 @@ class Eduard extends SoftwareDeveloper implements QAEngineer, HackathonBuilder
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ewardronin35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&include_all_commits=true" height="175px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewardronin35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="175px"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ewardronin35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&include_all_commits=true" height="175px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewardronin35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="175px"/>
+</p>
 
 </div>
 
