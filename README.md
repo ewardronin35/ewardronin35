@@ -147,8 +147,9 @@ class Eduard extends SoftwareDeveloper implements QAEngineer, HackathonBuilder
 
 <div align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ewardronin35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&include_all_commits=true" height="175px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewardronin35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="175px"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=ewardronin35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&include_all_commits=true" height="175px" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ewardronin35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="175px" alt="Top Languages"/>
 </p>
 
 </div>
