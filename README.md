@@ -90,7 +90,8 @@ class Eduard extends SoftwareDeveloper implements QAEngineer, HackathonBuilder
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ewardronin35&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=ewardronin35&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
